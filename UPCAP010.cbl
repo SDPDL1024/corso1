@@ -4,6 +4,7 @@
       *****    FUNZIONE DEL PROGRAMMA :                       ****
       *****                                                   ****
       *****    - RICERCA PROVINCIA DA C.A.P.                  ****
+231024*** aggiunta provincia BAT
       *----------------------------------------------------------*
       * LINDC-PROV ! FUNZIONE                      ! INPUT       *
       *      1     ! RICERCA PROVINCIA DA CAP      ! LCAP        *
@@ -88,7 +89,7 @@
            03  FILLER          PIC X(17) VALUE "CHCHIETI         ".
            03  FILLER          PIC X(17) VALUE "AQL'AQUILA       ".
            03  FILLER          PIC X(17) VALUE "                 ".
-           03  FILLER          PIC X(17) VALUE "BT BAT           ".
+           03  FILLER          PIC X(17) VALUE "BTB.A.T.         ".
            03  FILLER          PIC X(17) VALUE "BABARI           ".
            03  FILLER          PIC X(17) VALUE "FGFOGGIA         ".
            03  FILLER          PIC X(17) VALUE "BRBRINDISI       ".
