@@ -1,1 +1,2 @@
 aperto branch eddycart per modifiche gestione lotto
+eddylotti
