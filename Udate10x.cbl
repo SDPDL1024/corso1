@@ -1,6 +1,7 @@
        IDENTIFICATION DIVISION.
        PROGRAM-ID. UDATE10X.
        DATE-WRITTEN. 28.05.99.
+modificato da git
       ********************************************************
 nuova modif su master
       ***  FUNZIONI:   CONTROLLO DI VALIDITA' DELLA  DATA   

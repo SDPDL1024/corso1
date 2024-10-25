@@ -4,6 +4,7 @@
       *****    FUNZIONI DEL PROGRAMMA  :                            ****
       *****                                                         ****
       *****        - CONTROLLO                                      ****
+231024* ubase nuova scad vep
       ******************************************************************
        ENVIRONMENT DIVISION.
        CONFIGURATION SECTION.
@@ -43,11 +44,7 @@
 240113* DEMO gatti
 240113*       MOVE      20130331        TO  WS-DATE-SCAD
 
-      *demo mario
-090310*       MOVE      20100419        TO  WS-DATE-SCAD
-      *demo mario VPN
-250614*       MOVE      20140731        TO  WS-DATE-SCAD
-      *
+    *
       *demo merc 100
 090911*       MOVE      20111231        TO  WS-DATE-SCAD
 
@@ -324,6 +321,9 @@
 
 101210* VINCI DANIELE SRL Fasano Magazzino
 100413*         MOVE    20131015        TO  WS-DATE-SCAD
+
+231024* vep
+231024*       move   20251124  to ws-date-scad
       *
 *******STANDARD --------------------------------------------------------
       *
