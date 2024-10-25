@@ -2,6 +2,7 @@
        PROGRAM-ID. UDATE10X.
        DATE-WRITTEN. 28.05.99.
       ********************************************************
+nuova modif su master
       ***  FUNZIONI:   CONTROLLO DI VALIDITA' DELLA  DATA   
       ***                                                   
       ***                  I N P U T      O U T P U T   
