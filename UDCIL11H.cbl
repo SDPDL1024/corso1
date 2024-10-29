@@ -2,7 +2,8 @@
 000200 PROGRAM-ID. UDCIL11H.
        DATE-WRITTEN.                    12/05/2010.
 000400******************************************************************
-291024*****======prova master locale:
+291024*****======prova master locale: dino
+291024 marianna add secona linea
 000700*****   -DECODIFICA CIFRE-LETTERE                             ****
 000700*****   -DECODIFICA CIFRE-LETTERE ANCHE LE ULT. 3 CIFRE       ****
 000700*****   -                    DOPO BARRA CENT. DI EURO         ****
