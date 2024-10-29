@@ -2,6 +2,7 @@
 000200 PROGRAM-ID. UDCIL11H.
        DATE-WRITTEN.                    12/05/2010.
 000400******************************************************************
+291024*****======prova master locale:
 000700*****   -DECODIFICA CIFRE-LETTERE                             ****
 000700*****   -DECODIFICA CIFRE-LETTERE ANCHE LE ULT. 3 CIFRE       ****
 000700*****   -                    DOPO BARRA CENT. DI EURO         ****
@@ -16,7 +17,7 @@
 001600*****810314*******************************************************
 001900 77  WSERV                   PIC S999 COMP-3  VALUE ZERO.
 001900 77  IND                     PIC S999 COMP-3  VALUE ZERO.
-002000 77  CTR-P                   PIC S999 COMP-3  VALUE ZERO.
+002000 77  CTR-P                   PIC S997 COMP-3  VALUE ZERO.
        01  WAREA.
 260901     03  WIMP                    PIC 9(9)V99 VALUE ZERO.
 002200     03  RWIMP   REDEFINES WIMP.
